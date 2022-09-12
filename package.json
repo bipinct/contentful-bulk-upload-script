@@ -1,0 +1,17 @@
+{
+    "name": "contentful-bulk-upload-script",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "contentful": "^9.1.34",
+      "contentful-management": "^10.13.0",
+      "mime-types": "^2.1.35"
+    }
+  }
+  
